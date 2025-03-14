@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #
 
-<p align="center">Arquiteta e Urbanista em transição para a tecnologia, com formação em Desenvolvimento Fullstack (JavaScript, Node.js, React, MongoDB). Meu primeiro contato com a programação foi com Java, que é meu amor. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+<p align="center">Arquiteta e Urbanista em transição para a tecnologia, com formação em Desenvolvimento Fullstack (JavaScript, Node.js, React, MongoDB). Meu primeiro contato com a programação foi com Java, que ainda é a minha grande paixão. Estou sempre em busca de novos desafios e oportunidades para aprender, aplicando meus conhecimentos para criar soluções inovadoras e funcionais. Aqui no GitHub, compartilho meus projetos e evolução constante na área de tecnologia.
   
 #
 ![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaIzadoraAlcantara&show_icons=true&theme=dracula)
