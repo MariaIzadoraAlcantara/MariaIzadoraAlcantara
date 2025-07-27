@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 #
 
-<p align="center">Arquiteta e Urbanista em transição para a tecnologia, com formação em Desenvolvimento Fullstack (JavaScript, Node.js, React, MongoDB). Meu primeiro contato com a programação foi com Java, que ainda é a minha grande paixão. Estou sempre em busca de novos desafios e oportunidades para aprender, aplicando meus conhecimentos para criar soluções inovadoras e funcionais. Aqui no GitHub, compartilho meus projetos e evolução constante na área de tecnologia.
+<p align="center">Arquiteta e Urbanista em transição para a área de tecnologia, atualmente cursando Engenharia Informática e com formação em Desenvolvimento Fullstack (JavaScript, Node.js, React, MongoDB). Meu primeiro contato com a programação foi com Java, que continua sendo a minha grande paixão. Tenho como objetivo atuar como desenvolvedora backend com foco em Java. Sou movida por desafios e tenho uma forte vontade de aprender e evoluir constantemente. Busco aplicar meus conhecimentos em soluções criativas, funcionais e com impacto real. Aqui no GitHub, compartilho meus projetos, aprendizados e o progresso contínuo nessa nova trajetória profissional.
   
 #
+<!--
 ![Iza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaIzadoraAlcantara&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaIzadoraAlcantara&hide_progress=true&theme=dracula)
 <div style="display: inline_block"><br>
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Iza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
+-->
 ##
 
 <div> 
